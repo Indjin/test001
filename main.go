@@ -4,6 +4,6 @@ import "fmt"
 
 func main() {
 
-	fmt.Println("Вывод из branch1")
+	fmt.Println("Содержимое branch1")
 
 }
